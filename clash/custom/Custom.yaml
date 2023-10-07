@@ -1,0 +1,178 @@
+payload:
+# self 自建
+  - DOMAIN-SUFFIX,daomeng.tk
+  - DOMAIN,ptgen.adaomengren.workers.dev
+  - DOMAIN,mygen.adaomengren.workers.dev
+
+# 游戏
+  - DOMAIN-SUFFIX,epicgames.com
+
+# usenet
+  - DOMAIN,predb.ovh
+  - DOMAIN,oonews.eu
+  - DOMAIN,newz-complex.org
+  - DOMAIN,www.nzbcave.co.uk
+  - DOMAIN,www.nzbnewzfrance.ninja
+  - DOMAIN,predb.pw
+
+# program exe
+  - PROCESS-NAME,GitHubDesktop.exe
+  - PROCESS-NAME,steam.exe
+  - PROCESS-NAME,git-remote-https.exe
+  - PROCESS-NAME,pycharm64.exe
+  # 英雄联盟台服 台湾代理
+  # - PROCESS-NAME,RiotClientServices.exe
+  # - PROCESS-NAME,wegame.exe
+
+# bt/pt 工具
+  - DOMAIN-SUFFIX,qbittorrent.org
+  - DOMAIN,hudbt.autofeed.workers.dev
+  - DOMAIN-SUFFIX,pan666.cn
+  - DOMAIN-SUFFIX,opensubtitles.org
+  - DOMAIN,rutracker.org
+  - DOMAIN,autoremove-torrents.readthedocs.io
+  - DOMAIN,api.rhilip.info
+  - DOMAIN-SUFFIX,ptgen.rhilip
+  - DOMAIN-SUFFIX,ptgen.rhilip.info
+  
+# 图床
+  - DOMAIN,jerking.empornium.ph
+  - DOMAIN-SUFFIX,catbox.moe
+  - DOMAIN-SUFFIX,postimg.cc
+  - DOMAIN-SUFFIX,gifrific.com
+  - DOMAIN-SUFFIX,gifyu.com
+  - DOMAIN-SUFFIX,ilikeshots.club
+  - DOMAIN-SUFFIX,snipboard.io
+  - DOMAIN-SUFFIX,imagebam.com
+  - DOMAIN-SUFFIX,ptpimg.me
+  - DOMAIN-SUFFIX,iili.io
+  - DOMAIN,imgbox.leaguehd.com
+  - DOMAIN-SUFFIX,imgbb.com
+  - DOMAIN-SUFFIX,freeimage.host
+  - DOMAIN-SUFFIX,pixhost.to
+  - DOMAIN-SUFFIX,ibb.co
+  - DOMAIN-SUFFIX,imgbox.com
+  - DOMAIN-SUFFIX,s2.gifyu.com
+  - DOMAIN,img.hdbits.org
+  - DOMAIN,beyondhd.co
+
+# 软件下载
+  - DOMAIN,www.ypojie.com
+  - DOMAIN,apphot.cc
+
+# 常用服务相关
+  - DOMAIN,imdb-api.com
+  - DOMAIN-SUFFIX,jenkins.io
+  - DOMAIN-SUFFIX,python.org
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,typora.io
+  - DOMAIN-SUFFIX,apache.org
+  - DOMAIN,b.cdnst.net
+  - DOMAIN,graph.org
+  - DOMAIN,www.selenium.dev
+  - DOMAIN-SUFFIX,translate.googleapis.com
+  - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN,omit.mkrobot.org
+  - DOMAIN,p.media-imdb.com
+  - DOMAIN,www.pyinstaller.org
+  - DOMAIN,pypi.org
+  - DOMAIN,www.omdbapi.com
+  - DOMAIN,raw.githubusercontent.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN,www.hostloc.com
+  - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,flexget.com
+  - DOMAIN-SUFFIX,www.blu-ray.com
+  - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN,predb.me
+  - DOMAIN-SUFFIX,redditstatic.com
+  - DOMAIN-SUFFIX,anidb.net
+  - DOMAIN-SUFFIX,imdb.com
+  - DOMAIN,code.jquery.com
+  - DOMAIN-SUFFIX,secure.gravatar.com
+  - DOMAIN-SUFFIX,gitcdn.link
+  - DOMAIN-SUFFIX,gitcdn.xyz
+  - DOMAIN-SUFFIX,githack.com
+
+# 机场
+  - DOMAIN,v2.nanoport.xyz
+  - DOMAIN-SUFFIX,wmsxwd-a.men
+  - DOMAIN,wmsxwd-c.men
+
+# 聊天
+  - DOMAIN-SUFFIX,discord.gg
+  - DOMAIN-SUFFIX,discord.com
+
+# 购物 / VPS
+  - DOMAIN-SUFFIX,amazon.co.uk
+  - DOMAIN-SUFFIX,online.net
+  - DOMAIN,ultra.cc
+  - DOMAIN,ultraseedbox.com
+  - DOMAIN,seedbox.io
+  - DOMAIN-SUFFIX,racknerd.com
+  - DOMAIN-SUFFIX,www.hetzner.com
+  - DOMAIN-SUFFIX,hostingby.design
+
+# 其他
+  - DOMAIN-SUFFIX,smsactivate.s3.eu-central-1.amazonaws.com
+  - DOMAIN-SUFFIX,sms-activate.org
+  - DOMAIN-SUFFIX,cc.ai55.cc
+  - DOMAIN,sonatype-download.global.ssl.fastly.net
+  - DOMAIN-SUFFIX,sonatype.com
+  - DOMAIN,blogsue.vercel.app
+  - DOMAIN-SUFFIX,merlinblog.xyz
+  - DOMAIN,cveoy.com
+  - DOMAIN,www.getrevue.co
+  - DOMAIN,51cg1.com
+  - DOMAIN,sehuatang.org
+  - DOMAIN,sub.id9.cc
+  - DOMAIN-SUFFIX,t66y.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN,suo.yt
+  - DOMAIN,0bin.net
+  - DOMAIN,brteam.net
+  - DOMAIN-SUFFIX,proton.me
+  - DOMAIN,komic.eu
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN,harbor.kipp.nz
+  - DOMAIN,mediaarea.net
+  - DOMAIN-SUFFIX,sg1lib.org
+  - DOMAIN,zh.z-lib.org
+  - DOMAIN,goo.gl
+  - DOMAIN-SUFFIX,metartnetwork.com
+  - DOMAIN,www.sexart.com
+  - DOMAIN-SUFFIX,metart.com
+  - DOMAIN-SUFFIX,metartx.com
+  - DOMAIN,masuit.com
+  - DOMAIN,wiki.servarr.com
+  - DOMAIN,download.msi.com
+  - DOMAIN,notifiarr.com
+  - DOMAIN,files.pythonhosted.org
+  - DOMAIN-SUFFIX,bootstrapcdn.com
+  - DOMAIN,cn.mydowndown.com
+  - DOMAIN,www.freenom.link
+  - DOMAIN,eurytus.feralhosting.com
+  - DOMAIN,www.op.gg
+  - DOMAIN,www.freenom.link
+  - DOMAIN-SUFFIX,vimeo.com
+  - DOMAIN,thumb.phyrefile.com
+
+# IP
+  - IP-CIDR,185.107.58.219/32
+  - IP-CIDR,144.76.76.244/32
+  - IP-CIDR,176.9.145.130/32
+  - IP-CIDR,95.216.17.168/32
+  - IP-CIDR,62.210.209.158/32
+  - IP-CIDR,163.172.22.136/32
+  - IP-CIDR,144.76.220.133/32
+  - IP-CIDR,213.227.144.86/32
+  - IP-CIDR,176.9.125.197/32
+  - IP-CIDR,5.9.70.166/32
+  - IP-CIDR,185.21.217.33/32
+  - IP-CIDR,46.4.51.87/32
+  - IP-CIDR,213.227.144.86/32,no-resolve
+  - IP-CIDR,136.243.48.83/32,no-resolve
+  - IP-CIDR,159.69.62.62/32,no-resolve
