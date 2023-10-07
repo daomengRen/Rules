@@ -1,0 +1,9 @@
+payload:
+# 图书馆 Bib
+  - DOMAIN-SUFFIX,od-cdn.com
+  - DOMAIN-SUFFIX,cdn.overdrive.com
+  - DOMAIN-SUFFIX,overdrive.com
+  - DOMAIN-SUFFIX,lapl.org
+
+# voice
+  - DOMAIN,voice.google.com
