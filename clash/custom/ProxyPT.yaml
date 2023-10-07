@@ -1,0 +1,65 @@
+payload:
+# > Private Tracker 
+# foreign
+  - DOMAIN-SUFFIX,hdbits.org
+  - DOMAIN-SUFFIX,passthepopcorn.me
+  - DOMAIN-SUFFIX,broadcasthe.net
+  - DOMAIN-SUFFIX,redacted.ch
+  - DOMAIN-SUFFIX,torrentleech.org
+  - DOMAIN-SUFFIX,empornium.is
+  - DOMAIN-SUFFIX,beyond-hd.me
+  - DOMAIN,gazellegames.net
+  - DOMAIN-SUFFIX,cinematik.net
+  - DOMAIN,club.hares.top
+  - DOMAIN-SUFFIX,enthralled.me,MyVPS
+  - DOMAIN,divteam.com
+  - DOMAIN-SUFFIX,torrentdb.net
+  - DOMAIN-SUFFIX,pornbits.net
+  - DOMAIN-SUFFIX,morethantv.me
+  - DOMAIN,sdbits.org
+  - DOMAIN,pussytorrents.org
+  - DOMAIN,horrorcharnel.org
+  - DOMAIN,jptv.club
+  - DOMAIN,hd-space.org
+  - DOMAIN,bitspyder.net
+  - DOMAIN,nzbs.in
+  - DOMAIN,hdcenter.cc
+  - DOMAIN,avistaz.to
+  - DOMAIN,bluebird-hd.org
+  - DOMAIN-SUFFIX,iptorrents.com
+  - DOMAIN-SUFFIX,telly.wtf
+  - DOMAIN-SUFFIX,shadowthein.net
+  - DOMAIN,x-ite.me
+  - DOMAIN,slitopen.me
+  - DOMAIN,openlook.me
+  - DOMAIN-SUFFIX,pornbay.org
+  - DOMAIN-SUFFIX,pornbay.wtf
+  - DOMAIN-SUFFIX,xthor.tk
+  - DOMAIN-SUFFIX,bibliotik.me
+  - DOMAIN,cinemageddon.net
+  - DOMAIN-SUFFIX,myanonamouse.net
+  - DOMAIN,filelist.io
+  - DOMAIN,blutopia.cc
+  - DOMAIN,hd-torrents.org
+
+# domestic
+  - DOMAIN-SUFFIX,totheglory.im
+  - DOMAIN-SUFFIX,hdroute.org
+  - DOMAIN-SUFFIX,pterclub.com
+  - DOMAIN-SUFFIX,lemonhd.org
+  - DOMAIN-SUFFIX,audiences.me
+  - DOMAIN,dicmusic.club
+  - DOMAIN,u2.dmhy.org
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN,pt.btschool.club
+  - DOMAIN-SUFFIX,hdchina.org
+  - DOMAIN-SUFFIX,ourbits.club
+  - DOMAIN-SUFFIX,hdsky.me
+  - DOMAIN-SUFFIX,m.hdsky.me
+  - DOMAIN-SUFFIX,chdbits.co
+  - DOMAIN,ptsbao.club
+  - DOMAIN-SUFFIX,pthome.net
+
+# > usenet  nzb
+  - DOMAIN,usenet-4all.pw
+  - DOMAIN,0ccec98d8962a17294688363537bfe2e.wtfnzb.pw
