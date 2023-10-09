@@ -147,16 +147,16 @@ surge_external_proxy:
 
 emojis:
 # 是否在节点名称前加入下面自定义的 Emoji，设置为 true 时打开，默认为 true
-  add_emoji: true
+  add_emoji: false
 # 是否移除原有订阅中存在的 Emoji，设置为 true 时打开，默认为 true
-  remove_old_emoji: true
+  remove_old_emoji: false
 # 在匹配到的节点前添加自定义 emojis，支持正则匹配
 # 例如: rule=(流量|时间|应急),⌛time  rule=(美|美国|United States),🇺🇸      rule=!!GROUPID=0!!(流量|时间|应急),⌛time  指定此 Emoji 规则仅在第一个订阅的节点中生效
-  rules:
+  rules: []
 #  - {match: "(流量|时间|应急)", emoji: "🏳️‍🌈"}
 #  - {script: "function getEmoji(node){}"}
 #  - {script: "path:/path/to/script.js"}
-  - {import: snippets/emoji.txt}
+  # - {import: snippets/emoji.txt}
 
 # 如果你对原本订阅自带的规则不满意时，可以使用如下配置
 rulesets:
@@ -174,7 +174,7 @@ rulesets:
 # ruleset=🎯 全球直连,rules/NobyDa/Surge/Download.list  表示引用本地 rules/NobyDa/Surge/Download.list 规则 且将此规则指向 [proxy_group] 所设置 🎯 全球直连 策略组
 # ruleset=🎯 全球直连,[]GEOIP,CN  表示引用 GEOIP 中关于中国的所有 IP 且将此规则指向 [proxy_group] 所设置 🎯 全球直连 策略组
 # ruleset=!!import:snippets/rulesets.txt  表示引用本地的snippets/rulesets.txt规则
-  rulesets:
+  rulesets: []
 #  - {rule: "GEOIP,CN", group: "DIRECT"}
 #  - {ruleset: "rules/LocalAreaNetwork.list", group: "DIRECT"}
 #  - {ruleset: "surge:rules/LocalAreaNetwork.list", group: "DIRECT"}
@@ -182,19 +182,19 @@ rulesets:
 #  - {ruleset: "clash-domain:https://ruleset.dev/clash_domestic_services_domains", group: "Domestic Services", interval: 86400}
 #  - {ruleset: "clash-ipcidr:https://ruleset.dev/clash_domestic_services_ips", group: "Domestic Services", interval: 86400}
 #  - {ruleset: "clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/China.yaml", group: "DIRECT", interval: 86400}
-  - {import: snippets/rulesets.txt}
+  # - {import: snippets/rulesets.txt}
 
 
 # 为 Clash 、Mellow 、Surge 以及 Surfboard 等程序创建策略组, 可用正则来筛选节点  [] 前缀后的文字将被当作引用策略组
 proxy_groups:
-  custom_proxy_group:
+  custom_proxy_group: []
 #  - {name: UrlTest, type: url-test, rule: [".*"], url: http://www.gstatic.com/generate_204, interval: 300, tolerance: 100, timeout: 5}
 #  - {name: Proxy, type: select, rule: [".*"]}
 #  - {name: group1, type: select, rule: ["!!GROUPID=0"]}
 #  - {name: v2ray, type: select, rule: ["!!GROUP=V2RayProvider"]}
 #  - {import: snippets/groups_forcerule.txt}
 #  - {name: ssid group, type: ssid, rule: ["default_group", "celluar=group0,ssid1=group1,ssid2=group2"]}
-  - {import: snippets/groups.txt}
+  # - {import: snippets/groups.txt}
 
 
 # 此部分用于指定 模板 中的部分值
