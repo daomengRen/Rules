@@ -6,7 +6,8 @@ payload:
 
 # 游戏
   - DOMAIN-SUFFIX,epicgames.com
-
+  - DOMAIN-SUFFIX,fitgirl-repacks.site
+  
 # usenet
   - DOMAIN,predb.ovh
   - DOMAIN,oonews.eu
