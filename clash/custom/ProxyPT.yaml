@@ -41,6 +41,7 @@ payload:
   - DOMAIN,filelist.io
   - DOMAIN,blutopia.cc
   - DOMAIN,hd-torrents.org
+  - DOMAIN,superbits.org
 
 # domestic
   - DOMAIN-SUFFIX,totheglory.im
