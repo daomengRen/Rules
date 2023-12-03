@@ -161,7 +161,8 @@ payload:
   - DOMAIN,www.freenom.link
   - DOMAIN-SUFFIX,vimeo.com
   - DOMAIN,thumb.phyrefile.com
-
+  - DOMAIN-SUFFIX,pandoranext.com
+  
 # IP
   - IP-CIDR,185.107.58.219/32
   - IP-CIDR,144.76.76.244/32
