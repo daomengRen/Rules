@@ -117,6 +117,9 @@ payload:
   - DOMAIN-SUFFIX,racknerd.com
   - DOMAIN-SUFFIX,www.hetzner.com
   - DOMAIN-SUFFIX,hostingby.design
+# 发卡
+  - DOMAIN-SUFFIX,mjjfaka.net
+
 
 # 其他
   - DOMAIN-SUFFIX,smsactivate.s3.eu-central-1.amazonaws.com
