@@ -42,7 +42,9 @@ payload:
   - DOMAIN,blutopia.cc
   - DOMAIN,hd-torrents.org
   - DOMAIN-SUFFIX,superbits.org
-
+  - DOMAIN-SUFFIX,alpharatio.cc
+  - DOMAIN-SUFFIX,hawke.uno
+  
 # domestic
   - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-SUFFIX,hdroute.org
