@@ -44,6 +44,13 @@ payload:
   - DOMAIN-SUFFIX,superbits.org
   - DOMAIN-SUFFIX,alpharatio.cc
   - DOMAIN-SUFFIX,hawke.uno
+  - DOMAIN-SUFFIX,tv-vault.me
+  - DOMAIN-SUFFIX,animebytes.tv
+  - DOMAIN-SUFFIX,hdf.world
+  - DOMAIN-SUFFIX,classix-unlimited.co.uk
+  - DOMAIN-SUFFIX,thesceneplace.com
+  - DOMAIN-SUFFIX,asiancinema.me
+
   
 # domestic
   - DOMAIN-SUFFIX,totheglory.im
