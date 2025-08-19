@@ -72,6 +72,10 @@ payload:
   - DOMAIN-SUFFIX,pthome.net
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,hdcmct.org
+  - DOMAIN-SUFFIX,keepfrds.com
+  - DOMAIN-SUFFIX,dicmusic.com
+  - DOMAIN-SUFFIX,ptsbao.club
+  - DOMAIN-SUFFIX,tjupt.org
   
 # > usenet  nzb
   - DOMAIN,usenet-4all.pw
