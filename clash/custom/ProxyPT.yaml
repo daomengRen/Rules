@@ -70,7 +70,9 @@ payload:
   - DOMAIN-SUFFIX,ptchdbits.co
   - DOMAIN,ptsbao.club
   - DOMAIN-SUFFIX,pthome.net
-
+  - DOMAIN-SUFFIX,springsunday.net
+  - DOMAIN-SUFFIX,hdcmct.org
+  
 # > usenet  nzb
   - DOMAIN,usenet-4all.pw
   - DOMAIN,0ccec98d8962a17294688363537bfe2e.wtfnzb.pw
