@@ -57,7 +57,9 @@ payload:
   - DOMAIN-SUFFIX,polishsource.cz
   - DOMAIN-SUFFIX,cartoonchaos.org
   - DOMAIN-SUFFIX,tb-asian.org
+  # 匹配 IP 地址范围
   - IP-CIDR,195.230.23.55/32
+  - IP-CIDR,178.63.9.180/32
   
 # domestic
   - DOMAIN-SUFFIX,totheglory.im
