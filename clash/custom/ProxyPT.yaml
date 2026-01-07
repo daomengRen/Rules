@@ -50,6 +50,9 @@ payload:
   - DOMAIN-SUFFIX,classix-unlimited.co.uk
   - DOMAIN-SUFFIX,thesceneplace.com
   - DOMAIN-SUFFIX,asiancinema.me
+  - DOMAIN-SUFFIX,althub.co.za
+  - DOMAIN-SUFFIX,abnzb.com
+  - DOMAIN-SUFFIX,torrentseeds.org
 
   
 # domestic
@@ -62,6 +65,7 @@ payload:
   - DOMAIN,dicmusic.club
   - DOMAIN,u2.dmhy.org
   - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,m-team.co
   - DOMAIN,pt.btschool.club
   - DOMAIN-SUFFIX,hdchina.org
   - DOMAIN-SUFFIX,ourbits.club
