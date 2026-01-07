@@ -3,10 +3,12 @@ payload:
   - DOMAIN-SUFFIX,daomeng.tk
   - DOMAIN,ptgen.adaomengren.workers.dev
   - DOMAIN,mygen.adaomengren.workers.dev
-
+  - DOMAIN,vps.16146009.xyz
+  
 # 游戏
   - DOMAIN-SUFFIX,epicgames.com
   - DOMAIN-SUFFIX,fitgirl-repacks.site
+
   
 # usenet
   - DOMAIN,predb.ovh
@@ -57,11 +59,13 @@ payload:
   - DOMAIN,img.hdbits.org
   - DOMAIN,beyondhd.co
   - DOMAIN-SUFFIX,upload.cc
-
+  - DOMAIN-SUFFIX,picx.cx
+  
 # 软件下载
   - DOMAIN,www.ypojie.com
   - DOMAIN,apphot.cc
-
+  - DOMAIN-SUFFIX,nite07.org
+  
 # 常用服务相关
   - DOMAIN,imdb-api.com
   - DOMAIN-SUFFIX,jenkins.io
@@ -171,6 +175,13 @@ payload:
   - DOMAIN-SUFFIX,av30.net
   - DOMAIN-SUFFIX,miav.nl
   - DOMAIN-SUFFIX,xyz.zsousuo.miav
+  - DOMAIN-SUFFIX,digitalnomadlc.com
+  - DOMAIN-SUFFIX,ankia.top
+  - DOMAIN-SUFFIX,fosshub.com
+  - DOMAIN-SUFFIX,qbittorrent.org
+  - DOMAIN-SUFFIX,dsxys.pro
+  - DOMAIN-SUFFIX,nerosbb.com
+  - DOMAIN-SUFFIX,nzbgrabit.xyz
   
 # IP
   - IP-CIDR,185.107.58.219/32
