@@ -165,6 +165,12 @@ payload:
   - DOMAIN-SUFFIX,vimeo.com
   - DOMAIN,thumb.phyrefile.com
   - DOMAIN-SUFFIX,pandoranext.com
+  - DOMAIN-SUFFIX,missav.ai
+  - DOMAIN-SUFFIX,missav.ws
+  - DOMAIN-SUFFIX,theporndude.com
+  - DOMAIN-SUFFIX,av30.net
+  - DOMAIN-SUFFIX,miav.nl
+  - DOMAIN-SUFFIX,xyz.zsousuo.miav
   
 # IP
   - IP-CIDR,185.107.58.219/32
