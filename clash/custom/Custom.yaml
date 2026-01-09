@@ -65,6 +65,7 @@ payload:
   - DOMAIN,www.ypojie.com
   - DOMAIN,apphot.cc
   - DOMAIN-SUFFIX,nite07.org
+  - DOMAIN-SUFFIX,clashverge.dev
   
 # 常用服务相关
   - DOMAIN,imdb-api.com
